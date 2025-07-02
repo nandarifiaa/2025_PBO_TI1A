@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Analisa Regresi menggunakan SPSS Statistic",
+        "description": "Melakukan analisa regresi untuk melanjutkan tugas dari bab 3 dan bab 4.",
+        "completed": false,
+        "deadline": "2025-07-04",
+        "attachment": "data\\BAB 5 Analisa Regresi.pdf"
+    },
+    {
+        "title": "Belajar CTF",
+        "description": "Persiapan Lomba",
+        "completed": false,
+        "deadline": "2025-07-31",
+        "attachment": "https://youtu.be/YaQhM2IORxs?si=XTBDBUDXVEdzUNu9"
+    },
+    {
+        "title": "Mengerjakan praktikum kecerdasan buatan",
+        "description": "Dikerjakan menggunakan word setelah itu di convert menjadi bentuk pdf.",
+        "completed": true,
+        "deadline": "2025-06-25",
+        "attachment": "data\\Penilaian Praktikum Clustering - Nanda Arifia Choerunisa - 4.33.24.0.21.docx"
+    }
+]
